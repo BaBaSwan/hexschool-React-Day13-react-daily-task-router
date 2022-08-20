@@ -34,9 +34,6 @@ function App () {
           <NavLink to="/todo">
             <p>Todo 頁面</p>
           </NavLink>
-          <NavLink to="/post/post123">
-            <p>Post 詳細頁面</p>
-          </NavLink>
         </div>
         {/* Routes, Route 練習區 */}
         <Routes>
